@@ -1,0 +1,115 @@
+{
+  "success": true,
+  "data": [
+    {
+      "user_id": "1",
+      "username": "admin_john",
+      "full_name": "John Maxwell",
+      "email": "john.maxwell@example.com",
+      "password": "$2y$10$4f8Rmq9YwX5gkS8M1H1XeOeK1lQ9gZRC7PuQsEVS5KvBHD5gYOP2e",
+      "phone": "+15551234567",
+      "role": "admin",
+      "created_at": "2025-04-12 13:39:46",
+      "updated_at": "2025-04-12 13:39:46"
+    },
+    {
+      "user_id": "2",
+      "username": "gm_susan",
+      "full_name": "Susan Lee",
+      "email": "susan.lee@example.com",
+      "password": "$2y$10$kUE71hr9Zc8dSn1JvPQeOeEt8H2MDCMXF3Xs5zP4QF3oFLP8Dsg4m",
+      "phone": "+15559876543",
+      "role": "general_manager",
+      "created_at": "2025-04-12 13:39:46",
+      "updated_at": "2025-04-12 13:39:46"
+    },
+    {
+      "user_id": "3",
+      "username": "workshop_mike",
+      "full_name": "Mike Robinson",
+      "email": "mike.robinson@example.com",
+      "password": "$2y$10$RwYBhJ2Xc0h0hRZ8UmVfuO8A9wOjfGHOeYFxn5A5juyU99lfQqpVS",
+      "phone": "+15555678901",
+      "role": "workshop_manager",
+      "created_at": "2025-04-12 13:39:46",
+      "updated_at": "2025-04-12 13:39:46"
+    },
+    {
+      "user_id": "4",
+      "username": "mech_eng_ali",
+      "full_name": "Ali Farouk",
+      "email": "ali.farouk@example.com",
+      "password": "$2y$10$ZFRL77RUxD4FQMdRMB2ztu7t6CRmZazWFGpQOwR8/JkQqRr1qQ5bW",
+      "phone": "+15553217890",
+      "role": "mechanical_engineer",
+      "created_at": "2025-04-12 13:39:46",
+      "updated_at": "2025-04-12 13:39:46"
+    },
+    {
+      "user_id": "5",
+      "username": "mechanic_bob",
+      "full_name": "Bob Jenkins",
+      "email": "bob.jenkins@example.com",
+      "password": "$2y$10$wLAsGHrQY4j6WnhlT8/EFuvlq0KqEPPH6UkRQ3GGkArs2RfKk9osq",
+      "phone": "+15557891234",
+      "role": "mechanic",
+      "created_at": "2025-04-12 13:39:46",
+      "updated_at": "2025-04-12 13:39:46"
+    },
+    {
+      "user_id": "6",
+      "username": "project_sara",
+      "full_name": "Sara Martinez",
+      "email": "sara.martinez@example.com",
+      "password": "$2y$10$82xL7T6pRMcV78BzRyxG2u5Z0mEAdcvW8YwYDP4FQb6K8mc3fOS0K",
+      "phone": "+15553456789",
+      "role": "project_engineer",
+      "created_at": "2025-04-12 13:39:46",
+      "updated_at": "2025-04-12 13:39:46"
+    },
+    {
+      "user_id": "7",
+      "username": "eng_hassan",
+      "full_name": "Hassan Omar",
+      "email": "hassan.omar@example.com",
+      "password": "$2y$10$MzK9Fu9UF/H2EytgNHVbk.wAKDRVKjqVKuIu2U8a6AfF0dDp8eZ8O",
+      "phone": "+15550987654",
+      "role": "mechanical_engineer",
+      "created_at": "2025-04-12 13:39:46",
+      "updated_at": "2025-04-12 13:39:46"
+    },
+    {
+      "user_id": "8",
+      "username": "mech_danny",
+      "full_name": "Danny White",
+      "email": "danny.white@example.com",
+      "password": "$2y$10$hfjZfLqRCAn5I0E9kWqEiO5FgkQDyyFwzD9pOQy3/4FoA3NcXQ4GO",
+      "phone": "+15556781234",
+      "role": "mechanic",
+      "created_at": "2025-04-12 13:39:46",
+      "updated_at": "2025-04-12 13:39:46"
+    },
+    {
+      "user_id": "9",
+      "username": "workshop_salma",
+      "full_name": "Salma El-Naggar",
+      "email": "salma.naggar@example.com",
+      "password": "$2y$10$FbJp9TLYx7ER8qv1J8xvDOpDNZKqEwj8cVZB5BFY4zNz7J8DpZKo6",
+      "phone": "+15552348765",
+      "role": "workshop_manager",
+      "created_at": "2025-04-12 13:39:46",
+      "updated_at": "2025-04-12 13:39:46"
+    },
+    {
+      "user_id": "10",
+      "username": "admin_linda",
+      "full_name": "Linda Green",
+      "email": "linda.green@example.com",
+      "password": "$2y$10$UG4QVpXeQQ7FvQqkJUmHhOCqFpRjUfjYg3D7E0wXkDMyTzDYuEqwO",
+      "phone": "+15550001122",
+      "role": "admin",
+      "created_at": "2025-04-12 13:39:46",
+      "updated_at": "2025-04-12 13:39:46"
+    }
+  ]
+}
