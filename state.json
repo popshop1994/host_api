@@ -1,0 +1,37 @@
+[
+  {
+    "state_name": "California",
+    "manager_name": "Alice Johnson",
+    "status": "active",
+    "created_at": "2025-04-10T14:30:00Z",
+    "created_by": "admin_john"
+  },
+  {
+    "state_name": "Texas",
+    "manager_name": "Michael Smith",
+    "status": "pending",
+    "created_at": "2025-04-09T11:45:00Z",
+    "created_by": "gm_susan"
+  },
+  {
+    "state_name": "Florida",
+    "manager_name": "Carlos Rivera",
+    "status": "active",
+    "created_at": "2025-04-08T09:15:00Z",
+    "created_by": "admin_linda"
+  },
+  {
+    "state_name": "New York",
+    "manager_name": "Jessica Wong",
+    "status": "pending",
+    "created_at": "2025-04-07T16:00:00Z",
+    "created_by": "gm_susan"
+  },
+  {
+    "state_name": "Illinois",
+    "manager_name": "David Brown",
+    "status": "active",
+    "created_at": "2025-04-06T13:20:00Z",
+    "created_by": "admin_john"
+  }
+]
