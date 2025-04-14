@@ -1,0 +1,29 @@
+{
+  "state": "California",
+  "projects": [
+    {
+      "name": "Golden Gate Bridge Maintenance",
+      "engineers": ["Alice Johnson", "Robert Smith"],
+      "created_at": "2025-04-10T09:00:00Z",
+      "created_by": "admin_user"
+    },
+    {
+      "name": "LA Metro Expansion",
+      "engineers": ["David Lee"],
+      "created_at": "2025-03-22T14:30:00Z",
+      "created_by": "project_manager_1"
+    },
+    {
+      "name": "Silicon Valley Smart Grid",
+      "engineers": ["Maria Gonzalez", "Ken Adams", "Sarah Lim"],
+      "created_at": "2025-02-15T08:15:00Z",
+      "created_by": "system_admin"
+    },
+    {
+      "name": "San Diego Coastal Restoration",
+      "engineers": ["Laura Chen"],
+      "created_at": "2025-01-05T11:45:00Z",
+      "created_by": "env_project_lead"
+    }
+  ]
+}
