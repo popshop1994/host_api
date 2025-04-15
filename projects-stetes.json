@@ -26,4 +26,27 @@
       "created_by": "env_project_lead"
     }
   ]
-}
+},
+{
+      "state": "Texas",
+      "projects": [
+        {
+          "name": "Houston Flood Control",
+          "engineers": ["James Carter", "Emily Davis"],
+          "created_at": "2025-04-01T10:20:00Z",
+          "created_by": "civil_team_lead"
+        },
+        {
+          "name": "Austin Green Energy Park",
+          "engineers": ["Nathan Brooks"],
+          "created_at": "2025-03-18T13:00:00Z",
+          "created_by": "green_project_admin"
+        },
+        {
+          "name": "Dallas Highway Upgrade",
+          "engineers": ["Olivia Martinez", "Victor Chang"],
+          "created_at": "2025-02-28T16:40:00Z",
+          "created_by": "transport_dept_user"
+        }
+      ]
+    }
