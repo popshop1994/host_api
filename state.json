@@ -1,37 +1,23 @@
 [
   {
-    "state_name": "California",
-    "manager_name": ["Alice Johnson", "Ahmad"],
+    "state_name": "BAUCHI",
+    "manager_name": ["Ahmed Al-Asadi"],
     "status": "active",
     "created_at": "2025-04-10T14:30:00Z",
-    "created_by": "admin_john"
+    "created_by": "Waseem Lababidi"
   },
   {
-    "state_name": "Texas",
-    "manager_name": ["Michael Smith"],
+    "state_name": "Kano",
+    "manager_name": ["Ammar Al-Nouri"],
     "status": "pending",
     "created_at": "2025-04-09T11:45:00Z",
-    "created_by": "gm_susan"
+    "created_by": "Rami Lababidi"
   },
   {
-    "state_name": "Florida",
-    "manager_name": ["Carlos Rivera"],
+    "state_name": "Abuja",
+    "manager_name": ["Waseem Lababidi","Rami Lababidi"],
     "status": "active",
     "created_at": "2025-04-08T09:15:00Z",
     "created_by": "admin_linda"
-  },
-  {
-    "state_name": "New York",
-    "manager_name": ["Jessica Wong"],
-    "status": "pending",
-    "created_at": "2025-04-07T16:00:00Z",
-    "created_by": "gm_susan"
-  },
-  {
-    "state_name": "Illinois",
-    "manager_name": ["David Brown"],
-    "status": "active",
-    "created_at": "2025-04-06T13:20:00Z",
-    "created_by": "admin_john"
   }
 ]
