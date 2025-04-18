@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "projectName": "Highway Expansion",
+      "projectName": "ATAP",
       "machines": [
         {
           "machineName": "Excavator CAT 320",
@@ -16,7 +16,7 @@
       ]
     },
     {
-      "projectName": "Bridge Construction",
+      "projectName": "ZANGO",
       "machines": [
         {
           "machineName": "Crane XCMG",
@@ -31,10 +31,20 @@
       ]
     },
     {
-      "projectName": "Residential Complex",
+      "projectName": "BARACKS",
       "machines": [
         {
           "machineName": "Loader Volvo L90",
+          "driverName": "Fadi Nassar",
+          "status": "working"
+        }
+      ]
+    },
+       {
+      "projectName": "SABON KAORA",
+      "machines": [
+        {
+          "machineName": "Paloder sany 51",
           "driverName": "Fadi Nassar",
           "status": "working"
         }
