@@ -4,17 +4,20 @@
     {
       "materialName": "Cement",
       "requiredQuantity": 100,
-      "receivedQuantity": 60
+      "receivedQuantity": 60,
+      "unit":"ton"
     },
     {
       "materialName": "Steel",
       "requiredQuantity": 200,
-      "receivedQuantity": 180
+      "receivedQuantity": 180,
+      "unit":"ton"
     },
     {
       "materialName": "Bricks",
       "requiredQuantity": 1000,
-      "receivedQuantity": 950
+      "receivedQuantity": 950,
+      "unit":"piece"
     }
   ]
 }
