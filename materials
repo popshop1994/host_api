@@ -1,0 +1,20 @@
+{
+  "projectName": "ATAP",
+  "materials": [
+    {
+      "materialName": "Cement",
+      "requiredQuantity": 100,
+      "receivedQuantity": 60
+    },
+    {
+      "materialName": "Steel",
+      "requiredQuantity": 200,
+      "receivedQuantity": 180
+    },
+    {
+      "materialName": "Bricks",
+      "requiredQuantity": 1000,
+      "receivedQuantity": 950
+    }
+  ]
+}
