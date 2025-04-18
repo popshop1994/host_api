@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "projectName": "Highway Expansion",
+      "machines": [
+        {
+          "machineName": "Excavator CAT 320",
+          "driverName": "John Doe",
+          "status": "working"
+        },
+        {
+          "machineName": "Bulldozer D6",
+          "driverName": "Ahmed Ali",
+          "status": "maintenance"
+        }
+      ]
+    },
+    {
+      "projectName": "Bridge Construction",
+      "machines": [
+        {
+          "machineName": "Crane XCMG",
+          "driverName": "Carlos Reyes",
+          "status": "not working"
+        },
+        {
+          "machineName": "Concrete Mixer",
+          "driverName": "Mohammed Zain",
+          "status": "working"
+        }
+      ]
+    },
+    {
+      "projectName": "Residential Complex",
+      "machines": [
+        {
+          "machineName": "Loader Volvo L90",
+          "driverName": "Fadi Nassar",
+          "status": "working"
+        }
+      ]
+    }
+  ]
+}
