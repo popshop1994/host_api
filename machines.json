@@ -1,33 +1,33 @@
 [
   {
-    "Machine Name": "Komatsu PC210 Excavator",
-    "Driver Name": "Ahmed Ali",
+    "MachineName": "Komatsu PC210 Excavator",
+    "DriverName": "Ahmed Ali",
     "Status": "Working"
   },
   
   {
-    "Machine Name": "Caterpillar D6T Dozer",
-    "Driver Name": "Mohamed Khaled",
+    "MachineName": "Caterpillar D6T Dozer",
+    "DriverName": "Mohamed Khaled",
     "Status": "Stopped"
   },
   {
-    "Machine Name": "Volvo FMX Dump Truck",
-    "Driver Name": "Youssef Ibrahim",
+    "MachineName": "Volvo FMX Dump Truck",
+    "DriverName": "Youssef Ibrahim",
     "Status": "Under Maintenance"
   },
   {
-    "Machine Name": "Toyota 8FGF30 Forklift",
-    "Driver Name": "Fatima Zahra",
+    "MachineName": "Toyota 8FGF30 Forklift",
+    "DriverName": "Fatima Zahra",
     "Status": "Working"
   },
   {
-    "Machine Name": "Hamm 3414 Roller",
-    "Driver Name": "Khaled Mahmoud",
+    "MachineName": "Hamm 3414 Roller",
+    "DriverName": "Khaled Mahmoud",
     "Status": "Stopped"
   }
   {
-    "Machine Name": "Drilling Machine",
-    "Driver Name": "abdu alahi",
+    "MachineName": "Drilling Machine",
+    "DriverName": "abdu alahi",
     "Status": "Stopped"
   }
 ]
