@@ -1,0 +1,33 @@
+[
+  {
+    "Machine Name": "Komatsu PC210 Excavator",
+    "Driver Name": "Ahmed Ali",
+    "Status": "Working"
+  },
+  
+  {
+    "Machine Name": "Caterpillar D6T Dozer",
+    "Driver Name": "Mohamed Khaled",
+    "Status": "Stopped"
+  },
+  {
+    "Machine Name": "Volvo FMX Dump Truck",
+    "Driver Name": "Youssef Ibrahim",
+    "Status": "Under Maintenance"
+  },
+  {
+    "Machine Name": "Toyota 8FGF30 Forklift",
+    "Driver Name": "Fatima Zahra",
+    "Status": "Working"
+  },
+  {
+    "Machine Name": "Hamm 3414 Roller",
+    "Driver Name": "Khaled Mahmoud",
+    "Status": "Stopped"
+  }
+  {
+    "Machine Name": "Drilling Machine",
+    "Driver Name": "abdu alahi",
+    "Status": "Stopped"
+  }
+]
