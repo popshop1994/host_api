@@ -1,0 +1,38 @@
+[
+  {
+    "partName": "Oil Filter",
+    "partNumber": "OIL123",
+    "initialQuantity": 100,
+    "remainingQuantity": 65,
+    "price": 25.5,
+    "supplyDate": "2025-04-01",
+    "receivedBy": "Sami"
+  },
+  {
+    "partName": "Spark Plug",
+    "partNumber": "SPK456",
+    "initialQuantity": 50,
+    "remainingQuantity": 20,
+    "price": 15.0,
+    "supplyDate": "2025-03-28",
+    "receivedBy": "Mazen"
+  },
+  {
+    "partName": "Engine Belt",
+    "partNumber": "BLT789",
+    "initialQuantity": 30,
+    "remainingQuantity": 10,
+    "price": 45.75,
+    "supplyDate": "2025-04-10",
+    "receivedBy": "George"
+  },
+  {
+    "partName": "Alternator",
+    "partNumber": "ALT321",
+    "initialQuantity": 10,
+    "remainingQuantity": 4,
+    "price": 350.0,
+    "supplyDate": "2025-04-15",
+    "receivedBy": "Nabil"
+  }
+]
